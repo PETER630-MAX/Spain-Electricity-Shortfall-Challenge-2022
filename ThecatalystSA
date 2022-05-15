@@ -1,7 +1,0 @@
-def member_great_team(*arg):
-    great_team = ('Joshua','Peter','Nana','Silindile','Ben','Daniel')
-    member_name = input()
-    if member_name in great_team:
-        return 'Welcome Great Explorer'
-    else:
-        return 'Not a member'
